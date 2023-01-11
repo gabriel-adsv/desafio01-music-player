@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Atividade feita no desafio proposto pela Rocketseat. 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/estiloux-frontend/)
+- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/desafio01-music-player/)
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT.
